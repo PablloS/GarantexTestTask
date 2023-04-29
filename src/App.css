@@ -60,11 +60,11 @@ body {
 }
 
 .active::before {
-  height: 500%
+  height: 600%
 }
 
 .active:hover::before {
-  height: 500%
+  height: 600%
 }
 
 
