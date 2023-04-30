@@ -1,5 +1,5 @@
 # GarantexTestTask
-Небольшое приложение, которое парсит данные с сайта "garantex" через "https://garantexio.github.io"
+Небольшое PWA приложение, которое парсит данные с сайта "garantex" через "https://garantexio.github.io"
 приложение имеет три подраздела: 
 1. Рынки (активные рынки с сайта garantex.io)
 2. Валюта (активная валюта с сайта garantex.io
