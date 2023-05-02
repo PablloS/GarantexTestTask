@@ -25,6 +25,11 @@ const vitePWA = VitePWA({
       sizes: '384x384', 
       type: 'image/png', 
       purpose: "any maskable"
+    }, 
+    {
+      src: 'assets/images/android-chrome-384x384.png', 
+      sizes: '512x512', 
+      type: 'image/png'
     }]
   }
 })
